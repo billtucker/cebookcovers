@@ -1,0 +1,29 @@
+
+.navbar-custom{
+    background-color: #33691e;
+    width: 100% !important;
+    white-space: nowrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0px;
+}
+
+.navbar-side-custom{
+    background-color: #33691e;
+    margin-left: 10px;
+}
+
+
+.titletext{
+    color: #ffffff !important;
+}
+
+
+.dropdown-custom{
+    background-color: #33691e;
+}
+
+.zero_border_margin{
+    border: 0px !important;
+    margin: 0px !important;
+}
